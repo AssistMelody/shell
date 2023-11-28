@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title reset navicat
+# @raycast.title 重置navicat 试用时间
 # @raycast.mode inline
 # @raycast.refreshTime 10d
 
